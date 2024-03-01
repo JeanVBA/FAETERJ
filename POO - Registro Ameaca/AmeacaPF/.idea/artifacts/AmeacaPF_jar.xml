@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AmeacaPF:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AmeacaPF_jar</output-path>
+    <root id="archive" name="AmeacaPF.jar">
+      <element id="module-output" name="AmeacaPF" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/sqlite-jdbc-3.42.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jcalendar-1.4.jar/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/itextpdf-5.3.5.jar/itextpdf-5.3.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
